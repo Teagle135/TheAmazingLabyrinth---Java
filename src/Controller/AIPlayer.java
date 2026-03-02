@@ -1,6 +1,3 @@
-//Name: Enzo Zhu(100%)
-//Description: This program is for AI control
-
 package Controller;
 
 import Model.Board;

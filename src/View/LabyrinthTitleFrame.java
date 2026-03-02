@@ -1,6 +1,3 @@
-//Name: Lauson Liu (100%)
-//Description: displaying the title frame
-
 package View;
 
 import javax.swing.ImageIcon;
@@ -50,7 +47,7 @@ public class LabyrinthTitleFrame extends JFrame {
 		help.setBorderPainted(false);
 
 		// set the basic properties of the JFrame
-		this.setTitle("LET Labyrinth Menu");
+		this.setTitle("Labyrinth Menu");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setResizable(false);
 		this.setSize(1390, 830);

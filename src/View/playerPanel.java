@@ -1,5 +1,3 @@
-//Name: Tony Ren (100%)
-//Description: displaying the panel for each player
 package View;
 
 import java.awt.Color;

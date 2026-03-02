@@ -1,7 +1,3 @@
-//Name: Tony Ren(100%)
-//Description: This prorgam reads in the file and deliver it to the program
-
-
 //Package Name
 package Controller;
 

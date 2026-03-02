@@ -1,5 +1,3 @@
-//Name: Enzo Zhu (100%)
-//Description: One of the HelpFrame
 package View;
 
 import java.awt.Color;

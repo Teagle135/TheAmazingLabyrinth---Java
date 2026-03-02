@@ -1,6 +1,3 @@
-//Name: Lauson Liu(100%)
-//Description: Template class for pathfinder
-
 package Model;
 
 import Model.Board;

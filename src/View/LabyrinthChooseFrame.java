@@ -1,6 +1,3 @@
-//Name: Tony Ren (100%)
-//Description: Displaying the choose frame, setting up the game
-
 //Package Name
 package View;
 

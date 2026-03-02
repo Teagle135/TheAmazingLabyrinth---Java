@@ -1,6 +1,3 @@
-//Name: Tony Ren (100%)
-//Description: Template class for board
-
 package Model;
 
 import java.util.ArrayList;

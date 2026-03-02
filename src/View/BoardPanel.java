@@ -1,6 +1,3 @@
-//Name: Tony Ren(100%)
-//Description:Displaying the Board Panel
-
 //Package Name
 package View;
 //Import

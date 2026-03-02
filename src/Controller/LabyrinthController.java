@@ -1,6 +1,3 @@
-//Name: Tony Ren (100%)
-//Description: This Program controls the entire programs function
-
 //Package Name
 package Controller;
 

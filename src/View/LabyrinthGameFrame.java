@@ -1,6 +1,3 @@
-//Name: Tony Ren (100%)
-//Description: Displaying the actual game
-
 package View;
 
 import java.util.Objects;

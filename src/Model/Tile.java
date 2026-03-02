@@ -1,5 +1,3 @@
-//Name: Tony Ren(100%)
-//Description: Template class for Tile
 package Model;
 
 import java.awt.Image;

@@ -1,6 +1,3 @@
-//Name: Tony Ren(100%)
-//Description: This program loads the game file into the program
-
 package Controller;
 
 import java.awt.Color;

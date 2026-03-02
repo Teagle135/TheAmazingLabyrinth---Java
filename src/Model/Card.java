@@ -1,6 +1,3 @@
-//Name: Lauson Liu(60%), Tony Ren(40%)
-//Description: Template class for card
-
 package Model;
 
 import java.awt.Image;
