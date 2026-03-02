@@ -23,7 +23,7 @@ unique experience every playthrough.
 
 ## How to Run
 1. Clone the repository
-   git clone https://github.com/yourusername/java-labyrinth.git
+   git clone https://github.com/Teagle135/java-labyrinth.git
 2. Open the project in your preferred Java IDE (IntelliJ, Eclipse, etc.)
 3. Run the main class to launch the game
 
