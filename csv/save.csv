@@ -1,0 +1,6 @@
+Player 1,3,Keys,false,TreasureChest,false,Genie,false,0,0
+Player 2,3,Beetle,false,Ghost,false,Mouse,false,1,6
+Player 3,3,Bat,false,Sorceress,false,Money,false,6,3
+Player 4,3,Knight,false,Map,false,Horse,false,6,0
+EmptyTile,L,2,true,-1,-1,3,1,0
+EmptyTile,L,1,false,0,0,EmptyTile,I,0,true,-1,-1,Emerald,T,0,false,0,2,EmptyTile,L,1,true,-1,-1,Keys,T,0,false,0,4,EmptyTile,I,1,true,-1,-1,EmptyTile,L,2,false,0,6,Skeleton,L,0,true,-1,-1,Diamond,T,1,true,-1,-1,EmptyTile,L,2,true,-1,-1,Spider,T,0,true,-1,-1,Ghost,L,0,true,-1,-1,Horse,L,3,true,-1,-1,EmptyTile,I,0,true,-1,-1,Genie,T,3,false,2,0,EmptyTile,I,0,true,-1,-1,Bat,T,3,false,2,2,EmptyTile,L,2,true,-1,-1,Ring,T,0,false,2,4,Beetle,T,1,true,-1,-1,Book,T,1,false,2,6,EmptyTile,L,3,true,-1,-1,EmptyTile,I,2,true,-1,-1,EmptyTile,L,3,true,-1,-1,TreasureChest,T,1,true,-1,-1,Owl,L,2,true,-1,-1,EmptyTile,I,1,true,-1,-1,EmptyTile,I,2,true,-1,-1,Knight,T,3,false,4,0,EmptyTile,I,0,true,-1,-1,Candle,T,2,false,4,2,EmptyTile,L,1,true,-1,-1,Moth,T,1,false,4,4,EmptyTile,I,2,true,-1,-1,Dragon,T,1,false,4,6,EmptyTile,I,1,true,-1,-1,Lizard,T,3,true,-1,-1,Mouse,L,1,true,-1,-1,EmptyTile,L,3,true,-1,-1,Map,L,0,true,-1,-1,EmptyTile,L,0,true,-1,-1,EmptyTile,L,2,true,-1,-1,EmptyTile,L,0,false,6,0,EmptyTile,I,2,true,-1,-1,Money,T,2,false,6,2,Sorceress,T,2,true,-1,-1,Pig,T,2,false,6,4,EmptyTile,I,3,true,-1,-1,EmptyTile,L,3,false,6,6,
